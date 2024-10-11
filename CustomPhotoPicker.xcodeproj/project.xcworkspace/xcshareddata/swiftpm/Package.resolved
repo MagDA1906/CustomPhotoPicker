@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "cartography",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/robb/Cartography.git",
+      "state" : {
+        "revision" : "b75197ea134f42b5feafb04b526b37eb1a41034b",
+        "version" : "4.0.0"
+      }
+    },
+    {
+      "identity" : "tablekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxsokolov/TableKit",
+      "state" : {
+        "revision" : "8bf4840d9d0475a92352f02f368f88b74eced447",
+        "version" : "2.11.0"
+      }
+    }
+  ],
+  "version" : 2
+}
